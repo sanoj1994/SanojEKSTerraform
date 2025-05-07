@@ -1,5 +1,5 @@
 # SanojEKSTerraform
-from these terraform configuration file you can create EKS cluster
+From these terraform configuration file you can create EKS cluster
 NOTE: you should install kubectl on your workstation
 STEP 1:
      git clone "repo url"
