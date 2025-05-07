@@ -12,4 +12,4 @@ STEP 4:
 STEP 5:
  terraform plan
 STEP 6:
- terraform apply --auro-approve
+ terraform apply --auto-approve
